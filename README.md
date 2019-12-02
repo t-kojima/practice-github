@@ -3,7 +3,6 @@
 ## description
 
 テストの内容ではありません
-ここはバグですよ
 
 ## next-step
 
